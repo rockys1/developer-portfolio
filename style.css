@@ -54,3 +54,35 @@ h1
     background-repeat: no-repeat;
     background-position: right;
 }
+.left{
+    margin-left: 120px;
+}
+
+.chotu{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position:left;
+}
+.item-shadow{
+    box-shadow: 5px 5px 30px rgba(255, 166, 0, 0.549);
+    border-radius: 15px;
+    width: 40%;
+    margin-left: 10%;
+    margin-right: 2%;
+    padding: 30px;
+    text-align: justify;
+    border-left: 5px solid yellowgreen;
+}
+.item-shadow1{
+    box-shadow: 5px 5px 30px rgba(255, 166, 0, 0.549);
+    border-radius: 15px;
+    width: 40%;
+    margin-left: 2%;
+    margin-right: 10%;
+    padding: 30px;
+    text-align: justify;
+    border-left: 5px solid rgb(247, 0, 107);
+}
+footer p{
+    text-align: center;
+}
