@@ -9,12 +9,16 @@ h1
     font-size: 40px;
 }
 .sumu{color: orange;}
-section{
+.rumu{
     display: flex;
     margin-bottom: 150px;
 }
 .putu{
     text-align: justify;
+}
+.tutu{
+    margin-right: 120px;
+    
 }
 .link-button{
     text-decoration: none;
@@ -40,6 +44,7 @@ section{
 .half-width img{
     width: 70%;
 }
+
 .background{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
