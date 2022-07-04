@@ -11,6 +11,7 @@ h1
 .sumu{color: orange;}
 section{
     display: flex;
+    margin-bottom: 150px;
 }
 .putu{
     text-align: justify;
@@ -23,6 +24,15 @@ section{
     font-weight: 700;
     border-radius: 10px;
 }
+.link-button1{
+    text-decoration: none;
+    background-image:linear-gradient(rgb(237, 3, 148), rgb(123, 2, 89));
+    padding: 10px 40px;
+    color: aliceblue;
+    font-weight: 700;
+    border-radius: 10px;
+}
+
 .half-width{
     width: 50%;
     padding-left: 8%;
@@ -33,5 +43,9 @@ section{
 .background{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
-
+}
+.dream{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
 }
